@@ -1,0 +1,12 @@
+tensorflow
+kagglehub
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+Pillow
+plotly
+keras-tuner
+requests
+ipykernel
